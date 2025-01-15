@@ -1,0 +1,12 @@
+This is the important information gathered from the conversation:
+
+The customer has ordered from a variety of pizza options available at the restaurant. 
+
+1. The customer initially wanted a pizza with tomato toppings only, but then changed the order to a cheese pizza.
+2. The customer does not want any other toppings except cheese on their pizza.
+3. The customer had a complimentary pizza available, which was made clear to them.
+4. The actual paid order includes two family-sized pizzas.
+5. One of the pizzas is just cheese (this one is the free one), and the other one consists of green toppings, green olives, chicken, and tomatoes.
+6. The customer also ordered beverages, specifically any type of cola and orange and apple "Sunder" (possibly a brand or type of juice).
+  
+This seems to be the customer's final order.

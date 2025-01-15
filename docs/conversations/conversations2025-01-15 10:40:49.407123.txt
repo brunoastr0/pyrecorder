@@ -1,0 +1,9 @@
+From the interaction, this is the important information gathered:
+
+1. The customer has placed an order for two pizzas.
+2. One of the pizzas is simply cheese (caíso). 
+3. The customer is in a hurry (wants to dispatch this).
+4. The other pizza comes with toppings including green pepper (compinente verde), green olive (azeitona verde), chicken (frango), and tomato.
+5. The seller also asked if the customer would like to add any drinks to the order.
+  
+Please note that some specific details (like "Duas pisas milhares") might have been misspelled or misunderstood, and therefore it's difficult for me to interpret them properly.

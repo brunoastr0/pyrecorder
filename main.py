@@ -5,13 +5,15 @@ from pyrecorder.OpenAI.OpenAI import OpenAI
 from pyrecorder.utils.config import OPENAI_API_KEY
 from pyrecorder.utils.config import CONVERSATIONS_FOLDER
 from pyrecorder.utils.config import TRANSCRIBE_FOLDER
+from pyrecorder.utils.config import DEVICE_NAME
+from pyrecorder.utils.config import SAMPLE_RATE
+
+
+
 from datetime import datetime
 
 
 
-# Load environment variables
-DEVICE_NAME = "pulse"  # Name of the audio device (adjust as needed)
-SAMPLE_RATE = 16000  # Sample rate for audio recording
 
 def save_to_file(content, filename):
     """
