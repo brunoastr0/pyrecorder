@@ -37,7 +37,21 @@ This project is an AI-driven system for recording audio, transcribing it using O
 ## Installation
 
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/brunoastr0/pyrecorder.git
    cd pyrecorder
+   ```
+
+2. **Install Dependecies**:
+
+   ```bash
+   pip3 install -r requirements.txt
+   ```
+
+## Usage
+
+1. **Run the Main Application**
+   ```bash
+   python3 main.py
    ```
